@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES={GPU_id} python train.py --cfg scripts/cfgs/RES_PAN_{DATASET}.yml --seed {seed}

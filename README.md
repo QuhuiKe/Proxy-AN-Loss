@@ -59,3 +59,15 @@ bash partial.sh
 ```
 bash imbalance.sh
 ```
+
+## Citation
+```
+@article{peng2025proxy,
+  title = {Proxy-AN Loss for Deep Metric Learning},
+  author = {Peng, Wenjie and Ke, Quhui and Liang, Jinglin and Huang, Shuangping and Chen, Tianshui}
+  journal = {Neural Networks},
+  pages = {108254},
+  year = {2025},
+  doi = {10.1016/j.neunet.2025.108254},
+}
+```

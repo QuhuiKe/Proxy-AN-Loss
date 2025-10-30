@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES={GPU_id} python train.py --cfg scripts/cfgs/RES_PAN_{DATASET}.yml --imbalance  --gamma {10 20 50 100 150} --seed {seed}
+CUDA_VISIBLE_DEVICES={GPU_id} python train.py --cfg scripts/cfgs/RES_PAN_{DATASET}.yml --imbalance --alpha {12 32} --gamma {10 20 50 100 150} --seed {seed}
